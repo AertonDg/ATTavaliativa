@@ -1,0 +1,9 @@
+.Input {
+    border-radius: 5px;
+    height: 50px;
+    padding: 10px;
+    margin: 15px;
+    width: 400px;
+    padding-left: 20px;
+    border-color: rgb(175, 169, 169);
+}
